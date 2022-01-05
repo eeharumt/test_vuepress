@@ -28,9 +28,9 @@ module.exports = {
     },
     plugins: [
       [
-        '@vuepress/google-analytics',
+        '@vuepress/plugin-google-analytics',
         {
-          ga: 'G-D3X9922XZE', // 自身のトラッキングIDを設定
+          id: 'G-D3X9922XZE',
         },
       ],
     ],
