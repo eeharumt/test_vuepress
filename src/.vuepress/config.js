@@ -4,27 +4,35 @@ module.exports = {
     title: 'Discord 非公式日本語ドキュメント',
     description: 'This is my first VuePress site',
     dest: 'docs/',
-    base: '/test_vuepress/',
+    base: '/unofficial-discord-jpdoc/',
   
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
-      logo: 'https://vuejs.org/images/logo.png',
+      logo: '/assets/img/Discord-Logo-Color.png',
       navbar: [
         // NavbarItem
         {
-          text: '初心者ガイド',
+          text: '基本操作',
           link: '/basic_guide/',
         },
         {
-          text: 'サーバーの運用',
+          text: 'サーバー設定',
           link: '/server_guide/',
         },
         {
-          text: '各種設定',
+          text: 'ユーザー設定',
           link: '/listofsettings/',
         },
       ]
     },
+    plugins: [
+      [
+        '@vuepress/google-analytics',
+        {
+          ga: 'UA-71298278-1  ', // 自身のトラッキングIDを設定
+        },
+      ],
+    ],
   }
   
