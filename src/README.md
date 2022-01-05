@@ -1,12 +1,14 @@
 ---
 home: true
-tagline: 非公式日本語ドキュメント
-features:
-- title: 基本的な使い方
-  details: Feature 1 Description
-- title: サーバーをつくる
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by ええはる with 
+tagline: コミュニケーションツールの「Discord」の使い方や各機能についてまとめたサイトです。
+actions:
+  - text: 基本操作
+    link: /basic_guide/
+    type: primary
+  - text: サーバー設定
+    link: /server_guide/
+    type: primary
+  - text: ユーザー設定
+    link: /listofsettings/
+    type: primary
 ---
