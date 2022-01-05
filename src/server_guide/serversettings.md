@@ -2,7 +2,7 @@
 
 サーバーに関する設定
 
-_サーバー設定の開き方_ ![serversettingの開き方](./serversetting.gif)
+_サーバー設定の開き方_ ![serversettingの開き方](./img/serversetting.gif)
 
 ## 概要(Overview)
 
@@ -15,20 +15,25 @@ _サーバー設定の開き方_ ![serversettingの開き方](./serversetting.gi
 - **AFK TIMEOUT**<br>
   何分以上アイドル時間が続けばAFKチャンネルに移動するか
 
+![Overview](./img/overview.png)
 
 ## 招待(Instant Invite)
 
 招待コードの管理画面。どの招待コードがどのチャンネルで誰が作り、何回使われたかあとどれぐらいその招待コードが有効かが表示される。表示されている招待コードにマウスオーバーすると表示される"Revoke"を押すことでその招待コードを削除し無効にできる。
 
+![Overview](./img/instantinvite.png)
+
 ## 連携サービス(Integration)
 
 ？
 
+![Overview](./img/twitchintegration.png)
 
 ## メンバー(Members)
 
 サーバーに参加したメンバーの一覧。Rolesで設定した役職を割り当てることができる。
 
+![Overview](./img/members.png)
 
 ## 役職(Roles)
 
@@ -47,12 +52,13 @@ _サーバー設定の開き方_ ![serversettingの開き方](./serversetting.gi
 - **VOICE PERMISSIONS**<br>
   ボイスチャンネルの権限設定
 
-
+![Overview](./img/roles.png)
 
 ## バンしたユーザー(Bans)
 
 Ban(追放)したユーザーのリスト。このリストから消さない限りそのユーザーはサーバーに参加することができない。 また、BanはユーザーアカウントとIPアドレスをもとに行われる。
 
+![Overview](./img/bans.png)
 
 ## 絵文字(Emoji)
 
@@ -60,6 +66,7 @@ Ban(追放)したユーザーのリスト。このリストから消さない限
 
 ウェブサイトに埋め込めるウィジェットを生成できる。
 
+![Overview](./img/widget.png)
 
 ## Webhooks
 Webhookの設定

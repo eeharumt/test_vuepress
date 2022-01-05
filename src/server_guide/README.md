@@ -27,7 +27,6 @@ _サーバー設定の開き方_ ![serversettingの開き方](./img/serversettin
 
 ？
 
-![Overview](./img/twitchintegration.png)
 
 ## メンバー(Members)
 
