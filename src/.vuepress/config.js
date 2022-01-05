@@ -4,7 +4,6 @@ module.exports = {
     title: 'Discord 非公式日本語ドキュメント',
     description: 'This is my first VuePress site',
     dest: 'docs/',
-    base: '/unofficial-discord-jpdoc/',
   
     // theme and its config
     theme: '@vuepress/theme-default',
