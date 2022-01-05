@@ -1,1 +1,0 @@
-const e={key:"v-d455281a",path:"/basic_guide/dm.html",title:"\u30C0\u30A4\u30EC\u30AF\u30C8\u30E1\u30C3\u30BB\u30FC\u30B8",lang:"ja-JP",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640688078e3,contributors:[{name:"eeharumt",email:"fukurou.origin@gmail.com",commits:1}]},filePathRelative:"basic_guide/dm.md"};export{e as data};
